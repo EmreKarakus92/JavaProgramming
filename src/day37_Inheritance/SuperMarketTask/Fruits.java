@@ -1,4 +1,4 @@
-package day37_Inheritance;
+package day37_Inheritance.SuperMarketTask;
 
 import java.util.ArrayList;
 

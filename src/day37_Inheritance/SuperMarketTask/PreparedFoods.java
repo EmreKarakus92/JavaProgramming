@@ -1,6 +1,4 @@
-package day37_Inheritance;
-
-import day37_Inheritance.SuperMarketTask;
+package day37_Inheritance.SuperMarketTask;
 
 public class PreparedFoods extends SuperMarketTask {
 
@@ -12,4 +10,6 @@ public class PreparedFoods extends SuperMarketTask {
         this.isCooked = isCooked ;
         this.insidePackageNumber = insidePackageNumber ;
     }
+
+
 }

@@ -1,4 +1,4 @@
-package day37_Inheritance;
+package day37_Inheritance.SuperMarketTask;
 
 public class Bakery extends SuperMarketTask{
 
