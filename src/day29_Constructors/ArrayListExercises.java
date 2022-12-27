@@ -47,6 +47,7 @@ public class ArrayListExercises {
         ArrayList<String> list2 = new ArrayList<>(Arrays.asList("Red", "Orenge", "Grey", "Brown"));
         System.out.println("list2 = " + list2);
         Collections.copy(list2,list1);
+        System.out.println("list1 = " + list1);
         System.out.println("list2 = " + list2);
 
         System.out.println("--------------------shuffle-------------------------------------------------");
